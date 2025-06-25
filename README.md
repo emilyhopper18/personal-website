@@ -1,2 +1,2 @@
-# personal-website
-My personal website displaying academic pursuits such as my programming projects and creative pursuits such as my photography, modeling, and artwork. 
+# ahearn-photography
+A website for my friend Erin, who is a photographer going by Ahearn Photography
